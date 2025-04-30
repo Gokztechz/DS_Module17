@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a27f4225-92c8-455c-9dd5-bce720384619)# Ex25 Adjacency List Representation
+# Ex25 Adjacency List Representation
 ## DATE:16.04.25
 ## AIM:
 To write a C program to represent the given graph using the adjacency list.
